@@ -1,7 +1,7 @@
-bloody_world
+cartoon_MAN
 ============
 
-blood grub..
+a cool grub for you..
 
 Config
 -------

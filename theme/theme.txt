@@ -1,6 +1,6 @@
 # GRUB2 gfxmenu theme
 # The Definitive Guide to Theming GRUB2,
-# using the demo theme from http://www.eryxworld.in
+# using the demo theme from x
 # Designed for any resolution
 #
 
