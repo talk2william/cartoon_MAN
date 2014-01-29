@@ -8,6 +8,7 @@ Config
 make a folder in your home directory called .grub (use alt + . or ctrl + h to unhide) and copy the theme folder in it:
 
   # mkdir ~/.grub
+  
   # cp /path/to/theme ~/.grub
 
 edit the file /etc/default/grub:
